@@ -17,7 +17,7 @@ import session.ProduitRemote;
 /**
  * Servlet implementation class ProduitServlet
  */
-@WebServlet("/ProduitServlet")
+@WebServlet("/ModifProduitServlet")
 public class ModifProduitServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
       
